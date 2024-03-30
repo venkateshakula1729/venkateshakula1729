@@ -14,7 +14,7 @@
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently exploring various domains of Computer Science.
+- 🛠 &nbsp; I am a sophomore at IIT Kanpur, majoring in Computer Science and Engineering 
 - 🌱 &nbsp; I’m currently learning ML, Gen AI, LLMs, etc.
 - 💬 &nbsp; Ask me anything [here](https://www.linkedin.com/in/venkatesh1729/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Me writing this bio.
@@ -22,7 +22,7 @@
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
+- 💻 &nbsp; I love exploring new technologies and building impactful stuff.
 - 📰 &nbsp; Reading, writing & watching Maths, Science & Tech Stuff whenever possible.
 - 🍕 &nbsp; Meetups & Deep conversations & Tech Events & Hackathons.
 
