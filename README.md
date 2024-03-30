@@ -16,7 +16,8 @@
 
 - 🛠 &nbsp; I am a sophomore at IIT Kanpur, majoring in Computer Science and Engineering 
 - 🌱 &nbsp; I’m currently learning ML, Gen AI, LLMs, etc.
-- 💬 &nbsp; Ask me anything [here](https://www.linkedin.com/in/venkatesh1729/)! I am happy to help.
+- 💬 Feel free to [connect](https://www.linkedin.com/in/venkatesh1729/) with me for all things tech or just to say hello!  I like talking to new people.
+
 - 👾 &nbsp; Fun fact: Me writing this bio.
 - 📫 &nbsp; Reach me out: venkateshakula42004@gmail.com.
 
@@ -74,6 +75,8 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="50"/> </a> </p>
 </div></td></tr></table>  
 <br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatesh1729&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesh1729" /> </p>
+
 
 ### Projects and Dev Stuffs:
 
