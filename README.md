@@ -25,7 +25,6 @@
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
 - 📰 &nbsp; Reading, writing & watching Maths, Science & Tech Stuff whenever possible.
 - 🍕 &nbsp; Meetups & Deep conversations & Tech Events & Hackathons.
-When I'm not at my laptop you can find me playing my guitar or studying physics.
 
 
 ## My Skill Set  
@@ -38,7 +37,6 @@ When I'm not at my laptop you can find me playing my guitar or studying physics.
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="50" /> 
-  <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="50" />  
   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="50" />  
   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="50" />  
 <img style="margin: 10px" src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" height="50" /> 
