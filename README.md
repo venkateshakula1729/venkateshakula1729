@@ -14,7 +14,7 @@
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I am a sophomore at IIT Kanpur, majoring in Computer Science and Engineering 
+- 👨🏽‍💻 &nbsp; I am a sophomore at IIT Kanpur, majoring in Computer Science and Engineering 
 - 🌱 &nbsp; I'm currently exploring different areas of computer science, with a particular interest in the intersection of math and computer science.
 - 💬 Feel free to [connect](https://www.linkedin.com/in/venkatesh1729/) with me for all things tech or just to say hello!  I like talking to new people.
 
