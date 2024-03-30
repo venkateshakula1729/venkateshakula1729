@@ -13,7 +13,7 @@
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently exploring various domains of Computer Science.
-- 🚀 &nbsp; I’m currently learning ML, Gen AI, LLMs, etc.
+- 🌱 &nbsp; I’m currently learning ML, Gen AI, LLMs, etc.
 - 💬 &nbsp; Ask me anything [here](https://www.linkedin.com/in/venkatesh1729/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Me writing this bio.
 - 📫 &nbsp; Reach me out: venkateshakula42004@gmail.com.
@@ -23,7 +23,6 @@
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
 - 📰 &nbsp; Reading, writing & watching Maths, Science & Tech Stuff whenever possible.
 - 🍕 &nbsp; Meetups & Deep conversations & Tech Events & Hackathons.
-
 
 
 ## My Skill Set  
@@ -39,7 +38,7 @@
   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="50" />  
   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="50" />  
   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
+<img style="margin: 10px" src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" height="50" /> 
 
   
 </div></td><td valign="top" width="33%">
@@ -64,11 +63,14 @@
 
 ### ML/DevOps  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+ <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="50" />  
-
-  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50" />  
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" height="50" />  
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" height="50" />  
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" height="50" />  
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"  height="50"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="50"/> </a> </p>
 </div></td></tr></table>  
 <br/>
 
