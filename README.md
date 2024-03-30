@@ -1,8 +1,10 @@
 ## Hey there <img src="gifs/Hi.gif" width="29px"> , I'm [Venkatesh!](https://github.com/venkateshakula1729/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/venkatesh1729)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/venkey1729)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-e4405f?style=flat-square&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/23147861/akula-venkatesh)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/venkatesh1729)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/venkey1729)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-e4405f?style=for-the-badge&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/23147861/akula-venkatesh)
+<a href="https://medium.com/@venkatesh1729" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-e4405f?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:venkateshakula042004@gmail.com)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=venkateshakula1729.venkateshakula1729&style=flat-square&color=0088cc)
 
@@ -23,6 +25,7 @@
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
 - 📰 &nbsp; Reading, writing & watching Maths, Science & Tech Stuff whenever possible.
 - 🍕 &nbsp; Meetups & Deep conversations & Tech Events & Hackathons.
+When I'm not at my laptop you can find me playing my guitar or studying physics.
 
 
 ## My Skill Set  
