@@ -19,7 +19,7 @@
 - 💬 &nbsp; Feel free to [connect](https://www.linkedin.com/in/venkatesh1729/) with me for all things tech or just to say hello!  I like talking to new people.
 
 - 👾 &nbsp; Fun fact: Me writing this bio.
-- 📫 &nbsp; Reach me out: venkateshakula42004@gmail.com.
+- 📫 &nbsp; Reach me out: venkateshakula042004@gmail.com.
 
 ### My Absolute Favorites:
 
