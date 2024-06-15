@@ -99,7 +99,8 @@
 
 <div align="center">
 
-### Happy Coding!&nbsp;&nbsp;![](gifs/cat-typing.gif) 
+ &nbsp; &nbsp;![](gifs/cat-typing.gif)                                                                                                                                                
+  ###  Happy Coding!
 </div>
 
 
