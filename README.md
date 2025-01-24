@@ -1,34 +1,36 @@
-## Hey there <img src="gifs/Hi.gif" width="29px"> , I'm [Venkatesh!](https://github.com/venkateshakula1729/)
+# Hey there <img src="gifs/Hi.gif" width="29px"> , I'm [Venkatesh!](https://github.com/venkateshakula1729/)
+
+## 🌐 Socials:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/venkatesh1729)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/venkey1729)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-e4405f?style=for-the-badge&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/23147861/akula-venkatesh)
 <a href="https://medium.com/@venkatesh1729" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-e4405f?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:venkateshakula042004@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatesh1729&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesh1729" /> </p>
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=venkateshakula1729.venkateshakula1729&style=flat-square&color=0088cc)
+## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=venkateshakula1729.venkateshakula1729&style=flat-square&color=0088cc)
 
 
 
 <img align="right" height="250" width="375" alt="venkateshakula1729" src="https://raw.githubusercontent.com//venkateshakula1729/master/gifs/coder.gif" />
 
-### Talking about Personal Stuff:
-
+### 💫 About Me:
 - 👨🏽‍💻 &nbsp; I am a junior UG student at IIT Kanpur, majoring in Computer Science and Engineering 
 - 🌱 &nbsp; I'm currently exploring different areas of computer science, with a particular interest in the intersection of math and CS.
 - 💬 &nbsp; Feel free to [connect](https://www.linkedin.com/in/venkatesh1729/) with me for all things tech or just to say hello!  I like talking to new people.
 
-- 👾 &nbsp; Fun fact: Me writing this bio.
+- 👾 &nbsp; Fun fact: Me writing my bio.
 - 📫 &nbsp; Reach me out: venkateshakula042004@gmail.com.
 
-### My Absolute Favorites:
+### ⚡ My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new technologies and building impactful stuff.
 - 📰 &nbsp; Reading, writing & watching Maths, Science & Tech Stuff whenever possible.
 - 🍕 &nbsp; Meetups & Deep conversations & Tech Events & Hackathons.
 
 
-## My Skill Set  
+# 💻 Tech Stack:
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -75,10 +77,9 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="50"/> </a> </p>
 </div></td></tr></table>  
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatesh1729&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesh1729" /> </p>
 
 
-### Projects and Dev Stuffs:
+## Projects and Dev Stuffs:
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
@@ -90,17 +91,29 @@
 
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=venkateshakula1729&theme=react&layout=compact" width="50%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=venkateshakula1729&theme=merko" alt="MatinT-SA github readme activity graph" width="49%" />
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=venkateshakula1729&hide_border=true" />
 </details>
 
-#
 
+<details>
+  <summary><b>🏆 GitHub Trophies</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=venkateshakula1729&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+</details>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <div align="center">
 
  &nbsp; &nbsp;![](gifs/cat-typing.gif)                                                                                                                                                
-  ###  Happy Coding!
+ ###  Happy Coding!
 </div>
+
+---
+[![](https://visitcount.itsvg.in/api?id=prateekp-01&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
