@@ -1,4 +1,4 @@
-# Hey there <img src="gifs/Hi.gif" width="29px"> , I'm [Venkatesh!](https://github.com/venkateshakula1729/)
+# Heya <img src="gifs/Hi.gif" width="29px"> , I'm [Venkatesh!](https://github.com/venkateshakula1729/)
 
 ## 🌐 Socials:
 
