@@ -22,6 +22,7 @@
 
 - 👾 &nbsp; Fun fact: Me writing my bio.
 - 📫 &nbsp; Reach me out: venkateshakula042004@gmail.com.
+![--------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ### ⚡ My Absolute Favorites:
 
@@ -104,6 +105,8 @@
   <br />
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=venkateshakula1729&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
 </details>
+
+![-----------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
