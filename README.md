@@ -33,7 +33,7 @@
 - 🌱 &nbsp; I'm currently exploring different areas of computer science, with a particular interest in the intersection of math and CS.
 - 💬 &nbsp; Feel free to [connect](https://www.linkedin.com/in/venkatesh1729/) with me for all things tech or just to say hello!  I like talking to new people.
 
-- 👾 &nbsp; Fun fact: Me writing my bio.
+- 👾 &nbsp; Fun fact: I am sexually attracted to maths.
 - 📫 &nbsp; Reach me out: venkateshakula042004@gmail.com.
 ![--------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
