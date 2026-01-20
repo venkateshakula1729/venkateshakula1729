@@ -29,7 +29,7 @@
 <img align="right" height="250" width="375" alt="venkateshakula1729" src="https://raw.githubusercontent.com//venkateshakula1729/master/gifs/coder.gif" />
 
 ### 💫 About Me:
-- 👨🏽‍💻 &nbsp; I am a junior UG student at IIT Kanpur, majoring in Computer Science and Engineering 
+- 👨🏽‍💻 &nbsp; I am a senior UG student at IIT Kanpur, majoring in Computer Science and Engineering 
 - 🌱 &nbsp; I'm currently exploring different areas of computer science, with a particular interest in the intersection of math and CS.
 - 💬 &nbsp; Feel free to [connect](https://www.linkedin.com/in/venkatesh1729/) with me for all things tech or just to say hello!  I like talking to new people.
 
